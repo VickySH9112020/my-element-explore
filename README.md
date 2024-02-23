@@ -7,4 +7,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 如果你需要运行的话需要先安装好node和angular CLI，然后先跑 `npm install`，再跑`ng serve`，即可启动。欢迎留言讨论！
 
-Testing
