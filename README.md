@@ -2,26 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
-## Development server
+这是我写的一篇文章里面的示范代码[Angular ElementRef，ViewContainerRef，TemplateRef 之一网打尽](https://juejin.cn/post/7338388292969857024)，如果你对文章里的代码有任何疑问的话，欢迎下载到本地运行,
+我的angular版本是17.2.0. node版本20.11.1。<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+如果你需要运行的话需要先安装好node和angular CLI，然后先跑 `npm install`，再跑`ng serve`，即可启动。欢迎留言讨论！
